@@ -1,5 +1,8 @@
 # IRIS-TG API Client
 
+> [!NOTE]  
+> Библиотека, больше обновляется не будет!
+
 Асинхронный Python клиент для работы с API IRIS-TG
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
